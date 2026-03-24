@@ -6,7 +6,7 @@ CYAN='\033[1;36m'
 NC='\033[0m'
 
 # URL do arquivo serials.txt remoto
-SERIALS_URL="https://iospay.cc/api/serials.txt"
+SERIALS_URL="https://raw.githubusercontent.com/gsmarea1-creator/me.txt/refs/heads/main/serials.txt"
 
 # Arquivo temporário para armazenar a lista
 TEMP_FILE="/tmp/serials.txt.$$"
